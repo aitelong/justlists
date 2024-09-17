@@ -1,6 +1,6 @@
 {
    "name": "X",
-   "logoURI": "https://github.com/aitelong/justlists/blob/96b5e39a30b5fa7273b66bfc3837819bdfb1ddfb/IMG_1271.jpeg",
+   "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg",
    "timestamp": 1724617097820,
    "tokens": [{
            "chainId": 1,
@@ -8,7 +8,7 @@
            "name": "X",
            "symbol": "X",
            "decimals": 18,
-           "logoURI": "https://github.com/aitelong/justlists/blob/96b5e39a30b5fa7273b66bfc3837819bdfb1ddfb/IMG_1271.jpeg"
+           "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg"
        },
        {
            "chainId": 1,
@@ -16,7 +16,7 @@
            "name": "X",
            "symbol": "X",
            "decimals": 18,
-           "logoURI": "https://github.com/aitelong/justlists/blob/96b5e39a30b5fa7273b66bfc3837819bdfb1ddfb/IMG_1271.jpeg"
+           "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg"
        }
    ],
    "version": {
