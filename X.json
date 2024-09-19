@@ -1,14 +1,14 @@
 {
-   "name": "X", #List name
-   "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg", #List logo uri
-   "timestamp": 1610339529000, #Update time in millisecond
+   "name": "X",
+   "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg", 
+   "timestamp": 1610339529000, 
    "tokens": [{
-           "chainId": 1, #ChainId, which is currently 1
+           "chainId": 1,
            "address": "TVWwjAYjSNrNBK7q62pgkNz6ahSyDXVTs8", #Token address
-           "name": "X", #Token name
-           "symbol": "X", #Token symbol
-           "decimals": 18, #Token decimals
-           "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg" #Token logo uri
+           "name": "X", 
+           "symbol": "X", 
+           "decimals": 18,
+           "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg" 
        },
        {
            "chainId": 1,
@@ -19,9 +19,9 @@
            "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg"
        }
    ],
-   "version": { #Version info
-       "major": 1, #Major version
-       "minor": 0, #Minor version
-       "patch": 0  #Patch version
+   "version": { 
+       "major": 1, 
+       "minor": 0, 
+       "patch": 0  
    }
 }
