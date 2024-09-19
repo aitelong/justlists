@@ -4,7 +4,7 @@
    "timestamp": 1610339529000, 
    "tokens": [{
            "chainId": 1,
-           "address": "TVWwjAYjSNrNBK7q62pgkNz6ahSyDXVTs8", #Token address
+           "address": "TVWwjAYjSNrNBK7q62pgkNz6ahSyDXVTs8", 
            "name": "X", 
            "symbol": "X", 
            "decimals": 18,
