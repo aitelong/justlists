@@ -12,9 +12,9 @@
    ],
     "logoURI":"https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg",
     "version":{
-        "patch":0,
+        "patch":1,
         "major":1,
-        "minor":1
+        "minor":0
     },
     "timestamp":1727538985000
 }
