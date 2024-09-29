@@ -1,5 +1,5 @@
 {
-    "name":"X",
+    "name":"X联盟",
     "tokens":[
         {
             "symbol":"WTRX",
