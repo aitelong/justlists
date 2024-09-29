@@ -1,6 +1,7 @@
 {
    "name": "X",
    "logoURI": "https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg", 
+  "timestamp": 1610339529000, 
    "tokens": [{
            "chainId": 1,
            "address": "TVWwjAYjSNrNBK7q62pgkNz6ahSyDXVTs8", 
@@ -23,4 +24,4 @@
        "minor": 0, 
        "patch": 0  
    }
-}"timestamp": 1610339529000,
+}
