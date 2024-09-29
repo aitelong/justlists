@@ -26,7 +26,7 @@
             "logoURI":"https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg"
         }
     ],
-    "logoURI":"https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg.png",
+    "logoURI":"https://raw.githubusercontent.com/aitelong/justlists/main/IMG_1271.jpeg",
     "version":{
         "patch":0,
         "major":1,
